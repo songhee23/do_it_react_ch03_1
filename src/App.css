@@ -38,5 +38,5 @@
 }
 
 
-.text-blue {color:blue;}
-.text-red {color:red;}
+.text-blue {color:blue !important;}
+.text-red {color:red !important;}
